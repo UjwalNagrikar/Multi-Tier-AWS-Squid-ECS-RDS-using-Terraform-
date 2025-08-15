@@ -280,7 +280,3 @@ For support and maintenance:
 - Keep Terraform and AWS provider versions updated
 - Regular security patches for AMIs
 - Database maintenance windows during low traffic periods
-
-## License
-
-This infrastructure code is provided as-is for educational and development purposes. Ensure compliance with your organization's policies and AWS best practices before production use.
